@@ -135,7 +135,7 @@ int main()
 }
 
 
-void APP_Init()
+void System_Init()
 {
     RCC_Void_InitClockSystem();              /* Initiate clock system as HSE Crystal */
 
